@@ -12,7 +12,7 @@ tuples
 identity operators
 membership operators
 
-#Python Foundations 03:
+# Python Foundations 03:
 type conversions
 if... elif... else conditional
 while and for loops
